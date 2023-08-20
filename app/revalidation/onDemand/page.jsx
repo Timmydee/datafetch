@@ -1,0 +1,1 @@
+// OnDemand has to do with having revalidating data based on an event for example when ther is an update from your headless cms
